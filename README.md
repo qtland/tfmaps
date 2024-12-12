@@ -138,6 +138,8 @@ The map indexes below are used in TF2 Casual matchmaking and GDPR match history 
 | Burghausen (`cp_burghausen`)     | 190 |
 
 ## Halloween 2024 (Casual)
+| Map Name       | Map Index           |
+| :------------- |-------------:|
 | Toxic (`koth_toxic`)     | 191 |
 | Darkmarsh (`cp_darkmarsh`)     | 192 |
 | Freaky Fair (`cp_freaky_fair`)     | 193 |
