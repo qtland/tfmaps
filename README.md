@@ -94,6 +94,12 @@ The map indexes below are used in TF2 Casual matchmaking and GDPR match history 
 ## Christmas Rotation (Casual)
 | Map Name       | Map Index           |
 | :------------- |-------------:|
+| Maul (`vsh_maul`)     | 203 |
+| Cutter (`plr_cutter`)     | 202 |
+| Patagonia (`pl_patagonia`)     | 201 |
+| Penguin Peak (`ctf_penguin_peak`)     | 200 |
+| Overcast (`koth_overcast_final`)     | 198 |
+| Fortezza (`cp_fortezza`)     | 199 |
 | Galleria (`pd_galleria`)     | 178 |
 | Carrier (`ctf_carrier`)     | 177     |
 | Turbine Center (`ctf_turbine_winter`) | 176      |
@@ -112,12 +118,6 @@ The map indexes below are used in TF2 Casual matchmaking and GDPR match history 
 | Wutville (`pl_wutville_event`) | 121  |
 | Snowfall (`ctf_snowfall_final`) | 120  |
 | SnowVille (`pd_snowville_event`) | 119  |
-| Overcast (`koth_overcast_final`)     | 198 |
-| Fortezza (`cp_fortezza`)     | 199 |
-| Penguin Peak (`ctf_penguin_peak`)     | 200 |
-| Patagonia (`pl_patagonia`)     | 201 |
-| Cutter (`plr_cutter`)     | 202 |
-| Maul (`vsh_maul`)     | 203 |
 
 ## Summer 2024 (Casual)
 | Map Name       | Map Index           |
