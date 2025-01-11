@@ -1,16 +1,6 @@
 ## Short Introduction
 The map indexes below are used in TF2 Casual matchmaking and GDPR match history (Personal Game Data). This list updates manually with new maps.
 
-## Special Event: Smissmas 2024 (Casual)
-| Map Name       | Map Index           |
-| :------------- |-------------:|
-| Overcast (`koth_overcast_final`)     | 198 |
-| Fortezza (`cp_fortezza`)     | 199 |
-| Penguin Peak (`ctf_penguin_peak`)     | 200 |
-| Patagonia (`pl_patagonia`)     | 201 |
-| Cutter (`plr_cutter`)     | 202 |
-| Maul (`vsh_maul`)     | 203 |
-
 ## Current Rotation (Casual)
 | Map Name       | Map Index           |
 | :------------- |-------------:|
@@ -122,6 +112,12 @@ The map indexes below are used in TF2 Casual matchmaking and GDPR match history 
 | Wutville (`pl_wutville_event`) | 121  |
 | Snowfall (`ctf_snowfall_final`) | 120  |
 | SnowVille (`pd_snowville_event`) | 119  |
+| Overcast (`koth_overcast_final`)     | 198 |
+| Fortezza (`cp_fortezza`)     | 199 |
+| Penguin Peak (`ctf_penguin_peak`)     | 200 |
+| Patagonia (`pl_patagonia`)     | 201 |
+| Cutter (`plr_cutter`)     | 202 |
+| Maul (`vsh_maul`)     | 203 |
 
 ## Summer 2024 (Casual)
 | Map Name       | Map Index           |
